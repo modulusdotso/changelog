@@ -4,6 +4,8 @@ date: May 2, 2026
 
 - fix: app crashed (v0.9.1) for mismatch of libssl version  @0verread
 
+---
+
 ### v0.9.1
 
 date: Apr 23, 2026
