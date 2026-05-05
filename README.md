@@ -1,3 +1,13 @@
+### v0.10.0
+
+date: May 5, 2026
+
+- feat: Users should be able to send submit feedback to us from the app by @0verread
+- improv: Default full screen mode for app @0verread
+- improv: image support for claude code by @0verread
+
+---
+
 ### v0.9.2
 
 date: May 2, 2026
